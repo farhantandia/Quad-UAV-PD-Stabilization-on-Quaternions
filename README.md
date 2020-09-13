@@ -7,12 +7,14 @@ Arduino based microcontroller
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide4.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide7.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide8.PNG" width="600"/>
-
+</p>
 ## Madgwick Filter based Quaternions Orientation
+<p align="center">
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide12.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide13.PNG" width="600"/>
-
+</p>
 ## Research Method
+<p align="center">
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide14.PNG" width="600"/>
 </p>
 ## Qudarotor Experimental Platform
@@ -24,6 +26,8 @@ Hardware          | Software
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide21.PNG" width="600"/>
 
 ## Results
+<p align="center">
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide22.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide24.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide30.PNG" width="600"/>
+</p>
