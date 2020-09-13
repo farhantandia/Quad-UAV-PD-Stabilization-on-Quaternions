@@ -16,14 +16,6 @@ Arduino based microcontroller
 ## Research Method
 <p align="center">
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide14.PNG" width="600"/>
-</p>
-## Qudarotor Experimental Platform
-Hardware          | Software            
-:-------------------------:|:-------------------------:
-<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide15.PNG" width="600"/>|<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide17.PNG" width="600"/>
-<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide16.PNG" width="600"/>|<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide18.PNG" width="600"/>
-<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide20.PNG" width="600"/>|<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide19.PNG" width="600"/>
-<img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide21.PNG" width="600"/>
 
 ## Results
 <p align="center">
