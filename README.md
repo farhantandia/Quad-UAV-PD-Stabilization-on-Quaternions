@@ -3,6 +3,7 @@ Implementation of Quadrotor UAV Proportional-Derivative Stabilization on Quatern
 Arduino based microcontroller
 
 ## Qudarotor Dynamics
+<p align="center">
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide4.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide7.PNG" width="600"/>
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide8.PNG" width="600"/>
@@ -13,7 +14,7 @@ Arduino based microcontroller
 
 ## Research Method
 <img src="https://github.com/farhantandia/Quad-UAV-PD-Stabilization-on-Quaternions/blob/master/img/Slide14.PNG" width="600"/>
-
+</p>
 ## Qudarotor Experimental Platform
 Hardware          | Software            
 :-------------------------:|:-------------------------:
